@@ -3,6 +3,11 @@ body {
   font-size: 16px;
 }
 
+header {
+  padding: 1rem;
+  text-align: center;
+}
+
 h2 {
   font-size: 30px;
 }
